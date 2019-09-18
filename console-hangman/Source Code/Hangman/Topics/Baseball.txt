@@ -1,0 +1,47 @@
+assist
+athlete
+base
+baserunning
+bat
+batter
+bullpen
+catch
+center field
+champion
+clutch hitter
+defense
+diamond
+fastball
+fielder
+first
+gear
+helmet
+ho-hitter
+home plate
+inning
+left field
+line drive
+lose
+Minor League
+mound
+nine
+out
+pinch hitter
+pitcher
+relief pitcher
+run
+score
+second
+slide
+softball
+sport
+spring training
+starting pitcher
+stolen
+sweet spot
+team
+third
+triple play
+uniform
+visiting team
+win

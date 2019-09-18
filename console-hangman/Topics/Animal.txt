@@ -1,0 +1,75 @@
+abalone
+algae
+barnacle
+basilisk
+bass
+box turtle
+bug
+bumblebee
+cattle
+chameleon
+chickadee
+chiton
+cobra
+cockroach
+colugo
+copperhead snake
+coral snake
+cottonmouth
+cutworm
+dolphin
+dolphin, spotted
+dung beetle
+finch
+flea
+flounder
+flying fish
+forest antelope
+frog
+fruit fly
+gerbil
+gopher
+grouse
+herring
+hornet
+human being
+hyrax
+imago
+ladybug
+larva
+lice
+locust
+longhorn
+lorikeet
+louse
+mamba
+marmot
+meadowlark
+mice
+monarch butterfly
+monitor lizard
+morpho butterfly
+mussels
+newt
+nine-banded armadillo
+North American porcupine
+northern right whale
+Ornithomimus
+parakeet
+pronghorn
+pupa
+rhea
+salamander
+sealion
+softshell turtle
+spiny lizard
+starling
+stingray
+stork
+tadpole
+tanager
+termite
+tick
+tree sparrow
+water moccasin
+waterbug

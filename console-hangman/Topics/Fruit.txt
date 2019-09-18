@@ -1,0 +1,24 @@
+apricot
+berry
+blood orange
+boysenberry
+cherry
+citrus
+crabapple
+current
+dragon fruit
+grapefruit
+kumquat
+lime
+loquat
+mango
+melon
+passion fruit
+pear
+pineapple
+plum
+pomegranate
+prune
+raspberry
+strawberry
+tangerine

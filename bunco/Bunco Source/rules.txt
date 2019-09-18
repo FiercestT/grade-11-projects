@@ -1,0 +1,16 @@
+RULES
+
+- Players will be put into a random order.
+- Players will roll a dice in their order.
+- Once all players have rolled, a new round will start.
+
+They will gain score if:
+    21 Score: All 3 dice are equal to the round number.
+    5 Score: All 3 dice are equal to each other but not the round.
+    1 Score: For each die equal to the round number.
+
+- If a player scores a point, they can roll again until they do not score any more points.
+- The user with the highest score wins.
+- If there is a tie, there will be extra rounds where the dice has to roll a 6 rather than the round number.
+- At the end of each round, the user with the highest score wins.
+- If there is another tie, the tie break will continue until there is a clear winner.

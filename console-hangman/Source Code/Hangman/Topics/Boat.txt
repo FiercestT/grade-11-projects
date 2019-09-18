@@ -1,0 +1,103 @@
+aft
+aircraft carrier
+amphibious vehicle
+astern
+ballast
+barque
+battlecruiser
+beam
+bilge
+boat lift
+boating
+boom
+bowsprit
+buoy
+canoe
+caravel
+carrier
+catamaran
+cockpit
+convoy
+crow's nest
+cruise ship
+current
+deck
+destroyer
+displacement
+docking
+draft
+drift
+dugout
+engine room
+ferry
+fireboat
+flat-bottom boat
+foremast
+freighter
+funnel
+galley
+gondola
+gunwale
+headsail
+helmsman
+houseboat
+hull
+hydroplane
+inboard motor
+jib
+keel
+ketch
+lanyard
+launch
+leeward
+lifeline
+lines
+log
+marine
+maritime
+mizzen
+mooring
+motorboat
+nautical
+naval
+navy
+ocean going
+offshore
+onboard
+outrigger canoe
+passage
+pedal boat
+personal flotation device
+pirate
+port
+powerboat
+PT boat
+rigging
+rocket boat
+row
+rudder
+sailboat
+schooner
+seafarer
+ship
+ski boat
+sloop
+spinnaker
+steamboat
+stern
+submarine
+swift boat
+tanker
+tide
+topsail
+transom
+tug
+umiak
+voyage
+warship
+water-borne
+waterline
+wheel
+winch
+windward
+yawl
